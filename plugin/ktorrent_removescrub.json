@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Bill in KCMO"
+            }
+        ],
+        "Description": "Removes a torrent from the list and permanently deletes the .torrent file it was loaded from. Downloaded data is left alone.",
+        "EnabledByDefault": true,
+        "Icon": "edit-delete",
+        "License": "GPL",
+        "Name": "Remove and Delete Torrent File",
+        "Version": "1.0"
+    }
+}
